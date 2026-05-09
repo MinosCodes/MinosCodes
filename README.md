@@ -13,7 +13,7 @@
 - 🔐 Currently learning **Penetration Testing & Cybersecurity** through TryHackMe.
 - 🎓 Informatik student at **FH Aachen**, seeking a Bachelor's with focus on **IT-Sicherheit**.
 - 🛠️ Built a **Java/JavaFX banking application** as a completed project.
-- 🌐 Developed several **full stack projects** using vanilla CSS and JavaScript.
+- 🌐 Developed some **full stack projects** using vanilla CSS and JavaScript.
 - ⚙️ Written multiple **C++ projects** covering various systems and algorithms.
 - 💡 Passionate about **ethical hacking, CTFs, web security and network security**.
 - 💬 Ask me about **Java, Python, C++, SQL, or anything cybersecurity related**.
