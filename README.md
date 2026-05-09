@@ -1,36 +1,26 @@
 <h1 align="center">Hi there, I'm Amine 👋</h1>
-<h3 align="center">Computer Science student building real-world software projects.</h3>
-
+<h3 align="center">Informatik student at FH Aachen — pursuing a Bachelor's with Schwerpunkt IT-Sicherheit.</h3>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=MinosCodes">
     <img src="https://komarev.com/ghpvc/?username=minoscodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
----
+🚀 About Me
 
-### 🚀 About Me
-- 🔭 Currently working on **Java/JavaFX banking apps** and backend tooling.
-- 🌱 Exploring **cloud-native development, Docker, and data engineering**.
-- 💡 Love building UI + domain logic that feel cohesive and practical.
-- 💬 Ask me about **Java, Python, SQL, or cross-platform dev setups**.
+🔐 Currently learning Penetration Testing & Cybersecurity through TryHackMe.
+🎓 Informatik student at FH Aachen, seeking a Bachelor's with focus on IT-Sicherheit.
+🛠️ Built a Java/JavaFX banking application as a completed project.
+💡 Passionate about ethical hacking, CTFs, web security and network security.
+💬 Ask me about Java, Python, SQL, or anything cybersecurity related.
 
-### 🤝 Connect With Me
+🤝 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-amine-merdassi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
   </a>
 </p>
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinosCodes&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  &nbsp;
- 
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinosCodes&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-### 🧰 Languages & Tools
+🧰 Languages & Tools
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
@@ -50,6 +40,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40" alt="Linux"/></a>
 </p>
 
----
-
-<!-- Bonus ideas: pin favorite repos, add contribution graph, or highlight certifications -->
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinosCodes&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinosCodes&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
